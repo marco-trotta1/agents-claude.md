@@ -29,7 +29,7 @@ The collection contains 31 direct source snapshots and 1 clearly marked communit
 | Georgi Gerganov | `ggml-org/llama.cpp` | LLM project contribution rules |
 | Samuel Colvin | `pydantic/pydantic-ai` | AI framework engineering rules |
 
-Alexandr Wang is covered in the negative findings. No public agent-rule file was found on the inspected public profiles and searches.
+Alexandr Wang was inspected, but no public agent-rule file was found in the reviewed sources.
 
 ## Attribution
 
