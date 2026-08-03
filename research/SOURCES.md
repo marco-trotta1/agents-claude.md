@@ -6,6 +6,11 @@ Retrieved on 2026-08-02.
 
 | Target file | Public source | Branch | Revision |
 | --- | --- | --- | --- |
+| `labs/openai/codex/AGENTS.md` | [openai/codex/AGENTS.md](https://github.com/openai/codex/blob/main/AGENTS.md) | `main` | `f73a07224653c2cc775b3f84f129b872b1e08f85` |
+| `labs/openai/openai-agents-python/AGENTS.md` | [openai/openai-agents-python/AGENTS.md](https://github.com/openai/openai-agents-python/blob/main/AGENTS.md) | `main` | `2bd71302d9238aec44c34849e290e3f6af23f394` |
+| `labs/anthropic/skills/README.md` | [anthropics/skills/README.md](https://github.com/anthropics/skills/blob/main/README.md) | `main` | `f458cee31a7577a47ba0c9a101976fa599385174` |
+| `labs/anthropic/skills/skill-creator/SKILL.md` | [anthropics/skills/skill-creator/SKILL.md](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) | `main` | `b0cbd3df1533b396d281a6886d5132f623393a9c` |
+| `labs/google/gemini-cli/GEMINI.md` | [google-gemini/gemini-cli/GEMINI.md](https://github.com/google-gemini/gemini-cli/blob/main/GEMINI.md) | `main` | `c7b920717fad72229c788aa8efc646afac7a2965` |
 | `people/andrej-karpathy/autoresearch/program.md` | [karpathy/autoresearch/program.md](https://github.com/karpathy/autoresearch/blob/master/program.md) | `master` | `228791fb499afffb54b46200aca536f79142f117` |
 | `people/andrej-karpathy/nanochat/.claude/skills/read-arxiv-paper/SKILL.md` | [karpathy/nanochat/.claude/skills/read-arxiv-paper/SKILL.md](https://github.com/karpathy/nanochat/blob/master/.claude/skills/read-arxiv-paper/SKILL.md) | `master` | `92d63d4e8bb4df75c3b71618f31ddde2378b2bcd` |
 | `people/boris-cherny/openclaw/AGENTS.md` | [bcherny/openclaw/AGENTS.md](https://github.com/bcherny/openclaw/blob/main/AGENTS.md) | `main` | `c6d8318d07f5479f5e6a66c548f6bb67b62f1f09` |
