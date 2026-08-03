@@ -2,7 +2,7 @@
 
 Public agent context files from prominent AI builders and agent-tool authors.
 
-The collection contains 22 direct source snapshots and 1 clearly marked community-derived snapshot. Direct snapshots keep the source path and file name. Each source revision is recorded in [research/SOURCES.md](research/SOURCES.md).
+The collection contains 31 direct source snapshots and 1 clearly marked community-derived snapshot. Direct snapshots keep the source path and file name. Each source revision is recorded in [research/SOURCES.md](research/SOURCES.md).
 
 ## Layout
 
@@ -23,6 +23,11 @@ The collection contains 22 direct source snapshots and 1 clearly marked communit
 | Peter Steinberger | `steipete/agent-scripts`, `steipete/deepsec`, `steipete/claude-code-mcp` | Global rules and project entry points |
 | Harrison Chase | `hwchase17/harbor`, `hwchase17/stagehand` | Agent evaluation and browser-agent context |
 | Swyx | `swyxio/skills` | Progress reporting rule |
+| Addy Osmani | `addyosmani/agent-skills` | Repository rules and skill workflow |
+| Jesse Vincent | `obra/superpowers` | Agent methodology and contributor gates |
+| Mitchell Hashimoto | `ghostty-org/ghostty` | Build rules and AI usage policy |
+| Georgi Gerganov | `ggml-org/llama.cpp` | LLM project contribution rules |
+| Samuel Colvin | `pydantic/pydantic-ai` | AI framework engineering rules |
 
 Alexandr Wang is covered in the negative findings. No public agent-rule file was found on the inspected public profiles and searches.
 

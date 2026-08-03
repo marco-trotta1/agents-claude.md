@@ -28,6 +28,15 @@ Retrieved on 2026-08-02.
 | `people/harrison-chase/harbor/CLAUDE.md` | [hwchase17/harbor/CLAUDE.md](https://github.com/hwchase17/harbor/blob/main/CLAUDE.md) | `main` | `1b1dbc43729edff705071a797bb0f98a90cf62f5` |
 | `people/harrison-chase/stagehand/claude.md` | [hwchase17/stagehand/claude.md](https://github.com/hwchase17/stagehand/blob/main/claude.md) | `main` | `1db5f1c1937b3943e13d8a43cbdeee0a6906ff75` |
 | `people/swyx/skills/AGENTS.md` | [swyxio/skills/AGENTS.md](https://github.com/swyxio/skills/blob/main/AGENTS.md) | `main` | `2132d177ab4edc47a4d819862cafc710c92a9456` |
+| `people/addy-osmani/agent-skills/AGENTS.md` | [addyosmani/agent-skills/AGENTS.md](https://github.com/addyosmani/agent-skills/blob/main/AGENTS.md) | `main` | `b665c5c59621d1b7453d243afc108059b27d7d7a` |
+| `people/addy-osmani/agent-skills/CLAUDE.md` | [addyosmani/agent-skills/CLAUDE.md](https://github.com/addyosmani/agent-skills/blob/main/CLAUDE.md) | `main` | `8fd208160caccd7e41a979b8a3980d32ee88fb2b` |
+| `people/jesse-vincent/superpowers/AGENTS.md` | [obra/superpowers/AGENTS.md](https://github.com/obra/superpowers/blob/main/AGENTS.md) | `main` | `c0b417e40959a72899d46863a024dcb7baad7b76` |
+| `people/jesse-vincent/superpowers/CLAUDE.md` | [obra/superpowers/CLAUDE.md](https://github.com/obra/superpowers/blob/main/CLAUDE.md) | `main` | `1d4c8d2aafb8fa0de3e5d7df80ff44899fa7e402` |
+| `people/mitchell-hashimoto/ghostty/AGENTS.md` | [ghostty-org/ghostty/AGENTS.md](https://github.com/ghostty-org/ghostty/blob/main/AGENTS.md) | `main` | `9897d6caba05c0cbf256f86bec2e2935f164a9c7` |
+| `people/mitchell-hashimoto/ghostty/AI_POLICY.md` | [ghostty-org/ghostty/AI_POLICY.md](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md) | `main` | `00c33eaf72af6c9b93d9fd8d54b6f7086612a95b` |
+| `people/georgi-gerganov/llama.cpp/AGENTS.md` | [ggml-org/llama.cpp/AGENTS.md](https://github.com/ggml-org/llama.cpp/blob/master/AGENTS.md) | `master` | `89482bd665673362b59c57d63295bd7c8259af62` |
+| `people/georgi-gerganov/llama.cpp/CLAUDE.md` | [ggml-org/llama.cpp/CLAUDE.md](https://github.com/ggml-org/llama.cpp/blob/master/CLAUDE.md) | `master` | `3595ae5963f1583f53beecf9725c919d309e15da` |
+| `people/samuel-colvin/pydantic-ai/AGENTS.md` | [pydantic/pydantic-ai/AGENTS.md](https://github.com/pydantic/pydantic-ai/blob/main/AGENTS.md) | `main` | `f5421ecb33129d0ca3fe5b576b92b41e2e9294e3` |
 
 ## Derived snapshot
 
@@ -55,6 +64,10 @@ The Hacker News Algolia API was queried for `CLAUDE.md`, `AGENTS.md`, `Karpathy 
 - [Andrej Karpathy's Claude.md: What Each Principle Fixes](https://news.ycombinator.com/item?id=47777038) helped identify the community-derived Karpathy file. The discussion distinguishes it from Karpathy's own work.
 - [Ask HN: Do you still spend time maintaining Claude.md / AGENTS.md files?](https://news.ycombinator.com/item?id=48160604) provides community context for why these files are maintained.
 - [Ask HN: Show Us Your Agents.md](https://news.ycombinator.com/item?id=45513067) provides additional examples and discussion.
+- [Stop Using /Init for Agents.md](https://news.ycombinator.com/item?id=47443674) points to Addy Osmani's agent-skill work.
+- [Ghostty/Agents.md - Agent Development Guide](https://news.ycombinator.com/item?id=48675288) identifies the Ghostty project file.
+- [Llama.cpp's Agents.md](https://news.ycombinator.com/item?id=47524915) identifies the llama.cpp project file.
+- [Turning 4,668 comments into AGENTS.md rules](https://news.ycombinator.com/item?id=47239546) identifies the Pydantic AI review workflow.
 
 ### Devpost
 
@@ -74,4 +87,9 @@ The pages loaded, but they did not expose a verifiable agent-rule file tied to o
 - [Peter Steinberger](https://github.com/steipete)
 - [Harrison Chase](https://github.com/hwchase17)
 - [Swyx](https://github.com/swyxio)
+- [Addy Osmani](https://github.com/addyosmani)
+- [Jesse Vincent](https://github.com/obra)
+- [Mitchell Hashimoto](https://github.com/mitchellh)
+- [Georgi Gerganov](https://github.com/ggerganov)
+- [Samuel Colvin](https://github.com/samuelcolvin)
 - [Alexandr Wang API profile](https://api.github.com/users/alexandrwang)
