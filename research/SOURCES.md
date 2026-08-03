@@ -10,6 +10,10 @@ Retrieved on 2026-08-02.
 | `people/andrej-karpathy/nanochat/.claude/skills/read-arxiv-paper/SKILL.md` | [karpathy/nanochat/.claude/skills/read-arxiv-paper/SKILL.md](https://github.com/karpathy/nanochat/blob/master/.claude/skills/read-arxiv-paper/SKILL.md) | `master` | `92d63d4e8bb4df75c3b71618f31ddde2378b2bcd` |
 | `people/boris-cherny/openclaw/AGENTS.md` | [bcherny/openclaw/AGENTS.md](https://github.com/bcherny/openclaw/blob/main/AGENTS.md) | `main` | `c6d8318d07f5479f5e6a66c548f6bb67b62f1f09` |
 | `people/boris-cherny/openclaw/CLAUDE.md` | [bcherny/openclaw/CLAUDE.md](https://github.com/bcherny/openclaw/blob/main/CLAUDE.md) | `main` | `c6d8318d07f5479f5e6a66c548f6bb67b62f1f09` |
+| `people/dickson-tsai/docs/CLAUDE.md` | [dicksontsai/docs/CLAUDE.md](https://github.com/dicksontsai/docs/blob/main/CLAUDE.md) | `main` | `7630e4237f5a5b261fa1a0ebde572dfb005fc3c1` |
+| `people/ashwin-bhat/claude-code-action/CLAUDE.md` | [ashwin-ant/claude-code-action/CLAUDE.md](https://github.com/ashwin-ant/claude-code-action/blob/main/CLAUDE.md) | `main` | `f66f337f4e2000f427352c56f5537b872ab337eb` |
+| `people/tomer-aberbach/claude-config/CLAUDE.md` | [TomerAberbach/claude-config/CLAUDE.md](https://github.com/TomerAberbach/claude-config/blob/main/CLAUDE.md) | `main` | `5ab9a17d983871d641c31759f3eca3cc368a38e4` |
+| `people/dominik-kundel/openai-agents-python/AGENTS.md` | [dkundel-openai/openai-agents-python/AGENTS.md](https://github.com/dkundel-openai/openai-agents-python/blob/main/AGENTS.md) | `main` | `2f6105c314d0e14ecb84ed95791e6468518da125` |
 | `people/steve-yegge/gastown/AGENTS.md` | [steveyegge/gastown/AGENTS.md](https://github.com/steveyegge/gastown/blob/main/AGENTS.md) | `main` | `649b832b7672bc7a2dbef26f5983aba6198b819b` |
 | `people/steve-yegge/beads/AGENTS.md` | [steveyegge/beads/AGENTS.md](https://github.com/steveyegge/beads/blob/main/AGENTS.md) | `main` | `a0c1f42e81f2b4430d4a93041d9f1adfcad3ff7f` |
 | `people/steve-yegge/beads/CLAUDE.md` | [steveyegge/beads/CLAUDE.md](https://github.com/steveyegge/beads/blob/main/CLAUDE.md) | `main` | `a0c1f42e81f2b4430d4a93041d9f1adfcad3ff7f` |
@@ -93,3 +97,7 @@ The pages loaded, but they did not expose a verifiable agent-rule file tied to o
 - [Georgi Gerganov](https://github.com/ggerganov)
 - [Samuel Colvin](https://github.com/samuelcolvin)
 - [Alexandr Wang API profile](https://api.github.com/users/alexandrwang)
+- [Dickson Tsai](https://github.com/dicksontsai), whose profile identifies him with Anthropic and Claude Code.
+- [Ashwin Bhat](https://github.com/ashwin-ant), whose profile says that he builds Claude Code at Anthropic.
+- [Tomer Aberbach](https://github.com/TomerAberbach), whose profile identifies him as technical staff at Anthropic.
+- [Dominik Kundel](https://github.com/dkundel-openai), whose profile identifies him as developer experience at OpenAI.

@@ -2,7 +2,7 @@
 
 Public agent context files from prominent AI builders and agent-tool authors.
 
-The collection contains 31 direct source snapshots and 1 clearly marked community-derived snapshot. Direct snapshots keep the source path and file name. Each source revision is recorded in [research/SOURCES.md](research/SOURCES.md).
+The collection contains 35 direct source snapshots and 1 clearly marked community-derived snapshot. Direct snapshots keep the source path and file name. Each source revision is recorded in [research/SOURCES.md](research/SOURCES.md).
 
 ## Layout
 
@@ -10,12 +10,21 @@ The collection contains 31 direct source snapshots and 1 clearly marked communit
 - `derived/` contains community files based on another person's public work.
 - `research/` contains source links, revisions, search notes, and negative findings.
 
-## Included people
+## Frontier-lab people
+
+| Person | Lab | Public source | Main agent surface |
+| --- | --- | --- | --- |
+| Ashwin Bhat | Anthropic | `ashwin-ant/claude-code-action` | Claude Code action architecture and workflow |
+| Boris Cherny | Anthropic | `bcherny/openclaw` | `AGENTS.md` and `CLAUDE.md` |
+| Dickson Tsai | Anthropic | `dicksontsai/docs` | Blog writing, testing, and PR rules |
+| Dominik Kundel | OpenAI | `dkundel-openai/openai-agents-python` | Agents SDK contributor rules |
+| Tomer Aberbach | Anthropic | `TomerAberbach/claude-config` | Personal Claude Code configuration |
+
+## Other included people
 
 | Person | Public source | Main agent surface |
 | --- | --- | --- |
 | Andrej Karpathy | `karpathy/autoresearch`, `karpathy/nanochat` | Research runbook and Claude skill |
-| Boris Cherny | `bcherny/openclaw` | `AGENTS.md` and `CLAUDE.md` |
 | Steve Yegge | `steveyegge/gastown`, `steveyegge/beads` | Agent entry points and detailed instructions |
 | Simon Willison | `simonw/llm` | `AGENTS.md` |
 | Matt Pocock | `mattpocock/skills` | `CLAUDE.md` and linked skills |
