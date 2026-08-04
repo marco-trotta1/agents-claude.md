@@ -1,6 +1,6 @@
 # Source ledger
 
-Retrieved on 2026-08-02.
+Retrieved on 2026-08-04.
 
 ## Direct snapshots
 
@@ -46,6 +46,7 @@ Retrieved on 2026-08-02.
 | `people/georgi-gerganov/llama.cpp/AGENTS.md` | [ggml-org/llama.cpp/AGENTS.md](https://github.com/ggml-org/llama.cpp/blob/master/AGENTS.md) | `master` | `89482bd665673362b59c57d63295bd7c8259af62` |
 | `people/georgi-gerganov/llama.cpp/CLAUDE.md` | [ggml-org/llama.cpp/CLAUDE.md](https://github.com/ggml-org/llama.cpp/blob/master/CLAUDE.md) | `master` | `3595ae5963f1583f53beecf9725c919d309e15da` |
 | `people/samuel-colvin/pydantic-ai/AGENTS.md` | [pydantic/pydantic-ai/AGENTS.md](https://github.com/pydantic/pydantic-ai/blob/main/AGENTS.md) | `main` | `f5421ecb33129d0ca3fe5b576b92b41e2e9294e3` |
+| `people/marcos-hernandez/AGENTS.md` | [Marcos Hernandez X post](https://x.com/MarcosHernanz/status/2083954734487212511) | `n/a` | `post 2083954734487212511` |
 
 ## Derived snapshot
 

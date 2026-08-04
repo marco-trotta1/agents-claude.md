@@ -9,7 +9,7 @@ Study real `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, and `SKILL.md` files. Compare 
 
 If this catalog helps you build a better agent workflow, [star it](https://github.com/marco-trotta1/awesome-agents-md).
 
-Last audited: 2026-08-02.
+Last audited: 2026-08-04.
 
 ## Start here
 
@@ -24,7 +24,7 @@ Last audited: 2026-08-02.
 | Collection | Direct files | Purpose |
 | --- | ---: | --- |
 | [Official labs](labs/) | 5 | Files published by OpenAI, Anthropic, and Google repositories. |
-| [People](people/) | 35 | Files published in repositories owned or maintained by named people. |
+| [People](people/) | 36 | Files published by or associated with named people. |
 | [Derived](derived/) | 1 | A clearly marked community file based on public work. |
 
 ## Official lab sources
@@ -51,6 +51,7 @@ The official lab label describes repository ownership. It does not imply endorse
 | Steve Yegge | Agent-tool builder | [gastown and beads](people/steve-yegge/) | Agent entry points and detailed instructions |
 | Simon Willison | AI tool builder | [llm](people/simon-willison/) | `AGENTS.md` |
 | Matt Pocock | TypeScript educator | [skills](people/matt-pocock/) | `CLAUDE.md` and linked skills |
+| Marcos Hernandez | Public X source | [X post](people/marcos-hernandez/) | `AGENTS.md` |
 | Affaan Hussein | Agent-tool builder | [everything-claude-code](people/affaan-hussein/) | `AGENTS.md` and `CLAUDE.md` |
 | Peter Steinberger | Agent-tool builder | [agent-scripts, deepsec, and claude-code-mcp](people/peter-steinberger/) | Global rules and project entry points |
 | Harrison Chase | Agent-tool builder | [harbor and stagehand](people/harrison-chase/) | Agent evaluation and browser-agent context |
